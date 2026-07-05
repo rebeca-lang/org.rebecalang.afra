@@ -1,0 +1,35 @@
+COMMERCIAL LICENSE AGREEMENT (TEMPLATE)
+
+This Commercial License Agreement ("Agreement") is a legal agreement between you 
+(either an individual or a single legal entity, hereinafter "Licensee") and 
+[YOUR NAME OR COMPANY NAME] ("Licensor") for the software product accompanying 
+this agreement.
+
+*** IMPORTANT: THIS IS A TEMPLATE. THIS LICENSE IS ONLY VALID AND EFFECTIVE 
+UPON WRITTEN CONFIRMED PURCHASE AND EXECUTION OF A SIGNED COMMERCIAL LICENSE 
+CERTIFICATE FROM THE LICENSOR. ***
+
+1. GRANT OF LICENSE
+Subject to the payment of the applicable commercial license fees, Licensor grants 
+Licensee a non-exclusive, non-transferable, perpetual (or subscription-based, 
+per final agreement) right to use, modify, and integrate the software into 
+Licensee's commercial applications and products.
+
+2. EXEMPTION FROM GPLv3 OBLIGATIONS
+Licensor warrants that the software provided under this Commercial License is 
+exempt from the copyleft provisions of the GNU General Public License v3 (GPLv3). 
+Licensee is NOT required to disclose, share, or open-source their proprietary 
+source code that links to or uses this software.
+
+3. THIRD-PARTY LIBRARIES
+This software utilizes standard third-party Java libraries open-sourced under 
+permissive terms (e.g., MIT, Apache 2.0, LGPL). Licensee is independently 
+responsible for complying with the attribution notices required by those 
+respective third-party creators.
+
+4. RESTRICTIONS
+Licensee may not sell, rent, lease, or sub-license the software as a standalone 
+development tool or competing product without explicit written consent.
+
+For inquiries or to finalize a signed commercial contract, contact:
+Email: [marjan.sirjani@mdh.se, ekhamespanah@gmail.com]

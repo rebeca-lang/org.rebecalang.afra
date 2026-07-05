@@ -1,0 +1,142 @@
+# THIRD-PARTY NOTICES
+
+This product includes software developed by third parties.
+
+Each third-party component remains subject to its own license. Copies of the applicable licenses are provided in the accompanying `licenses/` directory.
+
+---
+
+## Apache Software Foundation Components
+
+The following components are licensed under the Apache License, Version 2.0:
+
+* Apache Commons Lang (`commons-lang3`)
+* Apache Commons IO (`commons-io`)
+* Apache Commons Logging (`commons-logging`)
+* Apache Commons JXPath (`commons-jxpath`)
+* Apache Batik
+* Apache XML Graphics
+* Apache Felix Service Component Runtime
+
+Copyright © The Apache Software Foundation.
+
+Licensed under the Apache License, Version 2.0.
+
+---
+
+## Eclipse Foundation Components
+
+This software includes components from the Eclipse Platform, including but not limited to:
+
+* Eclipse Platform
+* Eclipse Runtime
+* Eclipse Equinox
+* Eclipse SWT
+* Eclipse JFace
+* Eclipse EMF
+* Eclipse PDE
+* Eclipse JDT
+* Eclipse Compare
+* Eclipse Team
+* Eclipse UI
+* Eclipse Zest
+
+These components are licensed under the Eclipse Public License 2.0 (or another Eclipse Foundation license applicable to the specific component).
+
+Copyright © Eclipse Foundation and contributors.
+
+---
+
+## OSGi Components
+
+This software includes OSGi specifications and reference components from the OSGi Alliance.
+
+Examples include:
+
+* org.osgi.service.component
+* org.osgi.service.event
+* org.osgi.service.prefs
+* org.osgi.util.promise
+* org.osgi.util.function
+
+Licensed under the Apache License 2.0.
+
+---
+
+## Bouncy Castle
+
+This software includes Bouncy Castle cryptographic libraries:
+
+* bcprov-jdk18on
+* bcpg-jdk18on
+
+Copyright © The Legion of the Bouncy Castle Inc.
+
+Licensed under the Bouncy Castle Licence.
+
+---
+
+## Java Native Access (JNA)
+
+This software includes:
+
+* JNA
+* JNA Platform
+
+Licensed under the Apache License 2.0 or the GNU Lesser General Public License Version 2.1.
+
+This distribution relies on the Apache License 2.0 licensing option.
+
+---
+
+## ICU4J
+
+This software includes ICU4J.
+
+Copyright © Unicode, Inc. and others.
+
+Licensed under the Unicode License.
+
+---
+
+## XZ for Java
+
+This software includes XZ for Java.
+
+Copyright © Lasse Collin and contributors.
+
+Licensed under the Zero-Clause BSD License.
+
+---
+
+## SAT4J
+
+This software includes SAT4J.
+
+Copyright © SAT4J developers.
+
+Licensed under the Eclipse Public License.
+
+---
+
+## Jakarta Annotations
+
+This software includes Jakarta Annotation API.
+
+Licensed under the Eclipse Distribution License.
+
+---
+
+## Eclipse Bundled Components
+
+The Eclipse plug-ins included with this product remain the property of their respective copyright holders and are distributed under their original licenses.
+
+No ownership of these components is claimed by the authors of this software.
+
+---
+
+## License Availability
+
+Copies of all applicable third-party licenses are provided in the `licenses/` directory accompanying this software distribution.
+
+The copyright and license notices of third-party software remain the property of their respective copyright holders.
