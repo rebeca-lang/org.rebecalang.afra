@@ -2,7 +2,7 @@ COMMERCIAL LICENSE AGREEMENT (TEMPLATE)
 
 This Commercial License Agreement ("Agreement") is a legal agreement between you 
 (either an individual or a single legal entity, hereinafter "Licensee") and 
-[YOUR NAME OR COMPANY NAME] ("Licensor") for the software product accompanying 
+[YOUR NAME OR COMPANY NAME] ("Licensor") for the software ("Software") product accompanying 
 this agreement.
 
 *** IMPORTANT: THIS IS A TEMPLATE. THIS LICENSE IS ONLY VALID AND EFFECTIVE 
